@@ -62,3 +62,23 @@ may be random noise.*
 
 ### Sales Heatmap: Region x Category
 ![Heatmap](screenshots/sales_heatmap.png)
+
+## Project Structure
+```
+RetailIQ-Python-EDA/
+├── README.md
+├── RetailIQ_EDA.ipynb
+├── data/
+│   └── retail_orders.csv
+└── screenshots/
+```
+
+## How to Run
+1. Open `RetailIQ_EDA.ipynb` in Google Colab
+2. Upload `data/retail_orders.csv` to the Colab file panel
+3. Run all cells (Runtime → Run all)
+
+## Author
+**Basil**, Aspiring Data Analyst
+📍 Kochi, Kerala
+🔗 [LinkedIn](https://www.linkedin.com/in/basil-paul94) | [GitHub](https://github.com/basil940)
