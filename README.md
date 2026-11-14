@@ -62,5 +62,3 @@ may be random noise.*
 
 ### Sales Heatmap: Region x Category
 ![Heatmap](screenshots/sales_heatmap.png)
-
-## Project Structure
